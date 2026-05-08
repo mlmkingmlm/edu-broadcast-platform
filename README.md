@@ -105,4 +105,31 @@ Run development server:
 
 npm run dev
 
+-------------------------------
+
+
+## Demo Credentials
+
+### Admin
+Email: admin@school.com
+Password: 123456
+
+### Teacher
+Email: rahul@school.com
+Password: 123456
+
+### Teacher
+Email: neha@school.com
+Password: 123456
+
+### Teacher
+Email: amit@school.com
+Password: 123456
+
+### Teacher
+Email: priya@school.com
+Password: 123456
+
+
+
 
