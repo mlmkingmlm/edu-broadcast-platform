@@ -130,6 +130,8 @@ Password: 123456
 Email: priya@school.com
 Password: 123456
 
+![alt text](image.png)
+
 
 
 
